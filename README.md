@@ -1,5 +1,1 @@
-# hello-world
-test
-
-Looks that we are going to have fun with HitHub
-
+"jos ymmarsin oiken t„h„n pit„„ laitaa lis„„ tekstia" 
